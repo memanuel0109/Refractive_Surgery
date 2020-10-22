@@ -1,2 +1,2 @@
 # Refractive_Surgery
-Here I will look at real LASIK and PRK surgery data to determine which methods can be used to improve patient outcomes
+In this project, I look at real LASIK and PRK surgical outcome data to determine what methods can be used to improve patient outcomes
